@@ -9,7 +9,7 @@
 * [CiscoルータによるEIGRP/HSRP設定](EIGRP_HSRP_settings_by_Cisco_router.pdf)
 * [AR570SとPCT54xxを用いたポートVLANの例](example_of_port_VLAN_by_AR570S_PCT54xx.pdf)
 * [HAクラスタ構築メモ(DRBD & Heartbeat)](HA_cluster_construction_memo(DRBD_Heartbeat).pdf)
-* []()
+* [ISDNアクセスルータ コンフィグ](ISDN_access_router_config.pdf)
 * []()
 * []()
 * []()
