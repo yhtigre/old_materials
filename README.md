@@ -6,6 +6,7 @@
 ## 索引
 * [RHEL5 bonding ドライバ利用ガイド](bonding_guide_for_RHEL5.pdf)
 * [MD3000i 構成メモ](configuration_fo_MD3000i.pdf)
+* [CiscoルータによるEIGRP/HSRP設定](EIGRP_HSRP_settings_by_Cisco_router.pdf)
 
 ## 免責事項
 本書は記載事項またはそれに関わる事項について、明示的あるいは暗黙的な保証はいたしておりません。
